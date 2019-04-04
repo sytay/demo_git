@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello8 file1 master
+=======
+hello8 file1 dev
+>>>>>>> dev
