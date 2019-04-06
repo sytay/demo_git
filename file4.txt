@@ -1,5 +1,1 @@
-
-<<<<<<< HEAD
-=======
-hello file44412
->>>>>>> master
+hello file4
